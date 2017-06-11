@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="mdpi"
+    format="7"
+    timestamp="59902975581780"
+    token="4757355575098467022"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="801" />
+    <task
+        name="instant-run-dex"
+        duration="859" />
+    <task
+        name="instant-run-transform"
+        duration="76" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="C:\Users\cgiadmin\Desktop\sony_smarteyeglass_sdk\samples\ARexp01\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="59902975581780"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\cgiadmin\Desktop\sony_smarteyeglass_sdk\samples\ARexp01\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,1 @@
+CHANGED,C:\Users\cgiadmin\Desktop\sony_smarteyeglass_sdk\samples\ARexp01\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\sony\smarteyeglass\extension\ARexp01\ARexp01Control.class

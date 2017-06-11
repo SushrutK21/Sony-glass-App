@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- No translation of sample extensions -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- Name of app, shown when installing/uninstalling extension -->
+    <string name="app_name">AR exp 01</string>
+    <!-- Title of preference activity -->
+    <string name="preference_activity_title">AR exp 01</string>
+    <!-- Name of extension, shown in preferences -->
+    <string name="extension_name">AR exp 01</string>
+    <!-- Configuration title shown in preferences -->
+    <string name="configuration_text">AR exp 01</string>
+    <!-- Menu option shown in preferences -->
+    <string name="preference_option_read_me">READ ME</string>
+    <!-- Read me text shown in dialog -->
+    <string name="preference_option_read_me_txt">The Sample AR Cylindrical extension tests the AR system on the SmartEyeglass device.
+                                                 Image seen in the direction of the head will change.\n</string>
+
+    <string name="preference_option_sensor_interval_title">Sensor rate interval</string>
+    <string name="preference_option_sensor_interval_summary">The number of milliseconds between sensor values</string>
+    <string name="preference_option_sensor_interval_dlg_title">Sensor rate interval</string>
+    <string name="preference_option_sensor_interval_dlg_msg">Provide the number of milliseconds between sensor values</string>
+    <string name="preference_option_sensor_interval_default_value">100</string>
+
+    <string name="preference_option_sensor_type_title">Sensor type</string>
+    <string name="preference_option_sensor_type_summary">The type of sensor to get values from</string>
+    <string name="preference_option_sensor_type_default_value">Gyro</string>
+    <string name="menu_settings">Settings</string>
+    <string name="settings_dialog_message"></string>
+    <string name="settings_summary">Current value is $1</string>
+    <string name="settings_unit">degree</string>
+    <string name="settings_title">Vertical angle</string>
+
+
+</resources>

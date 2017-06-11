@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_bg.png",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\exploded-aar\\ARexp01\\SmartExtensionUtils\\unspecified\\res\\drawable\\text_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon4.png",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\src\\main\\res\\drawable\\icon4.png"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon3.png",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\src\\main\\res\\drawable\\icon3.png"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\headset_pro_focus_xs_icn.png",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\exploded-aar\\ARexp01\\SmartExtensionUtils\\unspecified\\res\\drawable\\headset_pro_focus_xs_icn.png"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_extension.png",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\src\\main\\res\\drawable\\icon_extension.png"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\headset_pro_cancel_icn.png",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\exploded-aar\\ARexp01\\SmartExtensionUtils\\unspecified\\res\\drawable\\headset_pro_cancel_icn.png"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_frame.png",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\exploded-aar\\ARexp01\\SmartExtensionUtils\\unspecified\\res\\drawable\\widget_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\badge_counter.png",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\exploded-aar\\ARexp01\\SmartExtensionUtils\\unspecified\\res\\drawable\\badge_counter.png"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon2.png",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\src\\main\\res\\drawable\\icon2.png"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\headset_pro_ok_icn.png",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\exploded-aar\\ARexp01\\SmartExtensionUtils\\unspecified\\res\\drawable\\headset_pro_ok_icn.png"
+    }
+]

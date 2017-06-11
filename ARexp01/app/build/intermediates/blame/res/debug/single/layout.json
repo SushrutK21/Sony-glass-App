@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout00d.xml",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\src\\main\\res\\layout\\layout00d.xml"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hostlayout.xml",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\src\\main\\res\\layout\\hostlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout10d.xml",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\src\\main\\res\\layout\\layout10d.xml"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smart_watch_widget.xml",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\exploded-aar\\ARexp01\\SmartExtensionUtils\\unspecified\\res\\layout\\smart_watch_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smarteyeglass_widgetcard.xml",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\exploded-aar\\ARexp01\\SmartEyeglassAPI\\unspecified\\res\\layout\\smarteyeglass_widgetcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smart_watch_notification_widget.xml",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\exploded-aar\\ARexp01\\SmartExtensionUtils\\unspecified\\res\\layout\\smart_watch_notification_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout05d.xml",
+        "source": "C:\\Users\\cgiadmin\\Desktop\\sony_smarteyeglass_sdk\\samples\\ARexp01\\app\\src\\main\\res\\layout\\layout05d.xml"
+    }
+]
