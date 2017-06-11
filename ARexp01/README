@@ -1,12 +1,4 @@
--------------------------------
-# Feature shown in this sample
--------------------------------
-* Display an AR object on the Cylindrical Coordinate.
 
------------------------------
-# Notes
------------------------------
-* This sample code is intended for SmartEyeglass
 
 -----------------------------
 # Dependencies
@@ -26,3 +18,10 @@ SmartExtensionUtils
 
 SmartExtensionAPI
  - is an Android library project which contains the SmartExtensions API.
+ 
+ 
+ This project is extension of sample project provided by Sony.
+ 
+ 
+ This app tracks the sound source in cyclendrical coordinates.
+ App communicates with max software which sends the sound direction and this controls the object the user sees visually.
